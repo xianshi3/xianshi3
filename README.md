@@ -25,27 +25,23 @@
 
 ### Backend
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/><br><sub>Java</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42"/><br><sub>C#</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="42"/><br><sub>.NET</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="42"/><br><sub>Spring</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/><br><sub>Python</sub> |
 | :---: | :---: | :---: | :---: | :---: |
-| Java | C# | .NET | Spring | Python |
 
 ### Frontend
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/> | <img src="https://element-plus.org/images/element-plus-logo-small.svg" width="40"/> | <img src="https://cdn.simpleicons.org/vuedotjs/41B883" width="40"/> |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| Vue.js | React | TypeScript | Node.js | Element Plus | uni-app |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="42"/><br><sub>Vue.js</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/><br><sub>React</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42"/><br><sub>TypeScript</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/><br><sub>Node.js</sub> | <img src="https://element-plus.org/images/element-plus-logo-small.svg" width="42"/><br><sub>Element Plus</sub> |
+| :---: | :---: | :---: | :---: | :---: |
 
 ### Desktop & UI
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40"/> | <img src="https://cdn.simpleicons.org/avaloniaui/4E90C7" width="40"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="42"/><br><sub>WinForms</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="42"/><br><sub>WPF</sub> | <img src="https://cdn.simpleicons.org/avaloniaui/4E90C7" width="42"/><br><sub>Avalonia</sub> |
 | :---: | :---: | :---: |
-| WinForms | WPF | Avalonia |
 
 ### Databases & DevOps
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/><br><sub>MySQL</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="42"/><br><sub>Redis</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="42"/><br><sub>SQLite</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42"/><br><sub>Docker</sub> |
 | :---: | :---: | :---: | :---: |
-| MySQL | Redis | SQLite | Docker |
 
 ---
 
