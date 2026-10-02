@@ -22,36 +22,57 @@
 
 <table align="center">
   <tr>
-    <td width="50%" align="center" valign="top">
-      <b>Backend</b><br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="26"/> Java&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="26"/> C#&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="26"/> .NET&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="26"/> Spring&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="26"/> Python
-    </td>
-    <td width="50%" align="center" valign="top">
-      <b>Frontend</b><br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="26"/> Vue.js&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="26"/> React&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="26"/> TypeScript&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="26"/> Node.js
-    </td>
+    <th align="center" colspan="5">Backend</th>
+    <th align="center" colspan="4">Frontend</th>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top">
-      <b>Desktop &amp; UI</b><br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="26"/> WinForms&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="26"/> WPF&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/avaloniaui/4E90C7" width="26"/> Avalonia
-    </td>
-    <td width="50%" align="center" valign="top">
-      <b>Databases &amp; DevOps</b><br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="26"/> MySQL&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="26"/> Redis&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="26"/> SQLite&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="26"/> Docker
-    </td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="30"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="30"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/></td>
+  </tr>
+  <tr>
+    <td align="center">Java</td>
+    <td align="center">C#</td>
+    <td align="center">.NET</td>
+    <td align="center">Spring</td>
+    <td align="center">Python</td>
+    <td align="center">Vue.js</td>
+    <td align="center">React</td>
+    <td align="center">TypeScript</td>
+    <td align="center">Node.js</td>
+  </tr>
+  <tr>
+    <th align="center" colspan="3">Desktop &amp; UI</th>
+    <th align="center" colspan="4">Databases &amp; DevOps</th>
+    <td colspan="2"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="30"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="30"/></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/avaloniaui/4E90C7" width="30"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="30"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">WinForms</td>
+    <td align="center">WPF</td>
+    <td align="center">Avalonia</td>
+    <td align="center">MySQL</td>
+    <td align="center">Redis</td>
+    <td align="center">SQLite</td>
+    <td align="center">Docker</td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
