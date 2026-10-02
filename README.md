@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=200&section=header&text=Hello%2C%20I'm%20Reality%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=200&section=header&text=Hello%2C%20I'm%20Reality&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF7B00&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Engineer;Backend+%E2%9C%A8+Frontend+%E2%9C%A8+Desktop;Always+learning%2C+always+building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF7B00&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Engineer;Backend+Frontend+Desktop;Always+learning%2C+always+building" alt="Typing SVG" />
 
 <p>
   <a href="https://github.com/xianshi3/xianshi3"><img src="https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -13,55 +13,58 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🔭 Passionate **Full-Stack Engineer** — both frontend and backend
-- 🌱 Always eager to learn new technologies and build great software
-- 💻 Desktop / Web / Mini-program development enthusiast
-- 📍 Open to collaboration and interesting projects
+- Passionate **Full-Stack Engineer** — both frontend and backend
+- Always eager to learn new technologies and build great software
+- Desktop / Web / Mini-program development enthusiast
+- Open to collaboration and interesting projects
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
+
 <p>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" />
 </p>
 
 ### Frontend
+
 <p>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Element%20Plus-409EFF?style=for-the-badge&logo=element&logoColor=white" />
-  <img src="https://img.shields.io/badge/uni--app-41B883?style=for-the-badge&logo=uniapp&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" />
+  <img src="https://element-plus.org/images/element-plus-logo-small.svg" width="48" alt="Element Plus" />
+  <img src="https://img.shields.io/badge/uni--app-41B883?style=for-the-badge&logo=uniapp&logoColor=white&labelColor=2B2B2B" alt="uni-app" />
 </p>
 
 ### Desktop & UI
+
 <p>
-  <img src="https://img.shields.io/badge/WinForms-0078D7?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Avalonia-4E90C7?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/HandyControl-0984E3?style=for-the-badge&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48" alt="WinForms" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" alt="WPF" />
+  <img src="https://cdn.simpleicons.org/avaloniaui/4E90C7" width="48" alt="Avalonia" />
 </p>
 
 ### Databases & DevOps
+
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=xianshi3&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -73,12 +76,6 @@
 </div>
 
 ---
-
-## 🏆 Goals
-
-- ⭐ Contribute more to open source
-- 📦 Ship polished desktop & web apps
-- 🚀 Keep improving full-stack skills
 
 <div align="center">
 
