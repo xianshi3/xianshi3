@@ -9,14 +9,16 @@
 
 </div>
 
-## About Me
+<h2 align="center">About Me</h2>
 
-- Passionate **Full-Stack Engineer** — both frontend and backend
-- Always eager to learn new technologies and build great software
-- Desktop / Web / Mini-program development enthusiast
-- Open to collaboration and interesting projects
+<p align="center">
+  Passionate <b>Full-Stack Engineer</b> — both frontend and backend<br/>
+  Always eager to learn new technologies and build great software<br/>
+  Desktop / Web / Mini-program development enthusiast<br/>
+  Open to collaboration and interesting projects
+</p>
 
-## Tech Stack
+<h2 align="center">Tech Stack</h2>
 
 <table>
   <tr>
@@ -34,7 +36,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22"/> React&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="22"/> TypeScript&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="22"/> Node.js&nbsp;&nbsp;
-      <img src="https://element-plus.org/images/element-plus-logo-small.svg" width="22"/> Element Plus
     </td>
   </tr>
   <tr>
@@ -54,7 +55,7 @@
   </tr>
 </table>
 
-## GitHub Stats
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=xianshi3&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -70,3 +71,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=90&section=footer" width="100%" />
 
 </div>
+
