@@ -2,15 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=150&section=header&text=Hello%2C%20I'm%20Reality&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-
 <p>
   <a href="https://github.com/xianshi3/xianshi3"><img src="https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=xianshi3&color=blue&style=for-the-badge&label=Profile+Views" />
 </p>
 
 </div>
-
----
 
 ## About Me
 
@@ -19,31 +16,43 @@
 - Desktop / Web / Mini-program development enthusiast
 - Open to collaboration and interesting projects
 
----
-
 ## Tech Stack
 
-### Backend
-
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/><br><sub>Java</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42"/><br><sub>C#</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="42"/><br><sub>.NET</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="42"/><br><sub>Spring</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/><br><sub>Python</sub> |
-| :---: | :---: | :---: | :---: | :---: |
-
-### Frontend
-
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="42"/><br><sub>Vue.js</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/><br><sub>React</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42"/><br><sub>TypeScript</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/><br><sub>Node.js</sub> | <img src="https://element-plus.org/images/element-plus-logo-small.svg" width="42"/><br><sub>Element Plus</sub> |
-| :---: | :---: | :---: | :---: | :---: |
-
-### Desktop & UI
-
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="42"/><br><sub>WinForms</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="42"/><br><sub>WPF</sub> | <img src="https://cdn.simpleicons.org/avaloniaui/4E90C7" width="42"/><br><sub>Avalonia</sub> |
-| :---: | :---: | :---: |
-
-### Databases & DevOps
-
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/><br><sub>MySQL</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="42"/><br><sub>Redis</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="42"/><br><sub>SQLite</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42"/><br><sub>Docker</sub> |
-| :---: | :---: | :---: | :---: |
-
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Backend</b><br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="22"/> Java&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="22"/> C#&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="22"/> .NET&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="22"/> Spring&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22"/> Python
+    </td>
+    <td width="50%" valign="top">
+      <b>Frontend</b><br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="22"/> Vue.js&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22"/> React&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="22"/> TypeScript&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="22"/> Node.js&nbsp;&nbsp;
+      <img src="https://element-plus.org/images/element-plus-logo-small.svg" width="22"/> Element Plus
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Desktop &amp; UI</b><br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="22"/> WinForms&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="22"/> WPF&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/avaloniaui/4E90C7" width="22"/> Avalonia
+    </td>
+    <td width="50%" valign="top">
+      <b>Databases &amp; DevOps</b><br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="22"/> MySQL&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="22"/> Redis&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="22"/> SQLite&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="22"/> Docker
+    </td>
+  </tr>
+</table>
 
 ## GitHub Stats
 
@@ -55,8 +64,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=xianshi3&theme=tokyonight&hide_border=true" />
 </div>
-
----
 
 <div align="center">
 
