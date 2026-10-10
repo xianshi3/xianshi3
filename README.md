@@ -1,10 +1,5 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=150&section=header&text=Hello%2C%20I'm%20Reality&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
-<p>
-  <a href="https://github.com/xianshi3/xianshi3"><img src="https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=xianshi3&color=blue&style=for-the-badge&label=Profile+Views" />
-</p>
 </div>
 
 <div align="center">
@@ -17,7 +12,5 @@
 </div>
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=90&section=footer" width="100%" />
-
 </div>
