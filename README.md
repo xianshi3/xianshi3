@@ -1,16 +1,16 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=150&section=header&text=Hello%2C%20I'm%20Reality&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:242938,100:3A4A6B&height=150&section=header&text=Hello%2C%20I'm%20Reality&fontSize=30&fontColor=E6EDF3&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xianshi3&theme=tokyonight" />
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xianshi3&theme=tokyonight" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xianshi3&theme=blueberry" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xianshi3&theme=blueberry" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=xianshi3&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=xianshi3&theme=blueberry&hide_border=true" />
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=90&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A4A6B,100:242938&height=90&section=footer" width="100%" />
 </div>
