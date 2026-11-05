@@ -8,9 +8,5 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=xianshi3&theme=blueberry&hide_border=true" />
-</div>
-
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A4A6B,100:242938&height=90&section=footer" width="100%" />
 </div>
